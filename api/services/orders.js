@@ -1,4 +1,3 @@
-// show tory
 const { task, waitAll } = require('folktale/concurrency/task')
 const R = require('ramda')
 const db = require('../models')
