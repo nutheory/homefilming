@@ -34,7 +34,7 @@
     "apollo-link-http": "^1.5.3",
     "apollo-resolvers": "1.0.3",
     "assert": "1.4.1",
-    "aws-sdk": "2.251.1",
+    "aws-sdk": "2.1360.0",
     "axios": "0.18.1",
     "bcrypt": "2.0.1",
     "body-parser": "^1.17.1",
